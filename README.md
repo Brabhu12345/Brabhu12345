@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Brabhu12345
+- 🔥 I’m interested in cybersecurity/hacking
+- ⚡ I’m currently learning python and networking for hacking
+- 👉 info age 14 std 9th tamilnadu India 
+- 
