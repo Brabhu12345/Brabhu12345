@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brabhu Sankar raja
-- 🔥 I’m cyber security enthusiast
+- 🔥 I’m a cyber security enthusiast
 - 👉 info age 14 std 9th tamilnadu India 
 ### programming language 
 <div style="display: flex;">
