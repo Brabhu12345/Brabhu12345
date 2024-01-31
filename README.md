@@ -7,3 +7,4 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/bash.png" style="margin-right: 10px;"> </div>
 ### IDE and Tools I Use
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/brabhu?theme=light&font=Hahmlet)
