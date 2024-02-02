@@ -3,7 +3,7 @@
 - 👉 info age 14 std 9th tamilnadu India 
 ### knowledge
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/> <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Linux-logos-and-brands-those-icons-flat-those-icons.png" alt="Linux"/>
 
 ### programming language 
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1" style="margin-right: 10px;">  <img width="48" height="48" src="https://img.icons8.com/color/48/bash.png" style="margin-right: 10px;"> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
