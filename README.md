@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Brabhu Sankar raja
 - 🔥 I’m a cyber security enthusiast
+- ✨ currently learning mern stack 
 - 👉 info age 15 std 9th Tamilnadu India 
 ### knowledge
 
