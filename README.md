@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brabhu Sankar raja
 - 🔥 I’m a cyber security enthusiast
 - ✨ currently learning mern stack 
-- 👉 info age 15 std 9th Tamilnadu India    [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/error._.doc)
+- 👉 info age 15 std 9th Tamilnadu India    [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/error._.doc) [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@allinallbsraja)
 ### knowledge
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/> <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Linux-logos-and-brands-those-icons-flat-those-icons.png" alt="Linux"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/228BE6/visible--v1.png" alt="visible--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/metasploit.png" alt="metasploit"/>
