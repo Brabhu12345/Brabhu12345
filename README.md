@@ -9,7 +9,7 @@
 ### programming language 
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1" style="margin-right: 10px;">  <img width="48" height="48" src="https://img.icons8.com/color/48/bash.png" style="margin-right: 10px;"> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 ### IDE and Tools I Use
-<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/brabhu?theme=dark&font=Hahmlet&ext=contest)
 
