@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brabhu Sankar raja
-- 🔥 I have passionated on web development
+- 🔥 passionated on web development
 - ✨ currently learning mern stack 
 - 👉 info age 15 std 9th Tamilnadu India    [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/error._.doc) [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@allinallbsraja)
 ### knowledge
