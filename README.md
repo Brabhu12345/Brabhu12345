@@ -31,7 +31,7 @@
   &nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/arduino.png" alt="Arduino"/>
   &nbsp;&nbsp;
-<img width="48" height="48" src="https://img.icons8.com/external-those-icons-fill-those-icons/24/external-esp-cars-components-those-icons-fill-those-icons.png" alt="external-esp-cars-components-those-icons-fill-those-icons"/>
+<img width="48" height="48" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/24/external-esp-cars-components-those-icons-lineal-color-those-icons.png" alt="external-esp-cars-components-those-icons-lineal-color-those-icons"/>
 
 </p>
 
