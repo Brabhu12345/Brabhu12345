@@ -21,13 +21,20 @@
 
 ---
 
+
 ### knowledge
 
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Linux-logos-and-brands-those-icons-flat-those-icons.png" alt="Linux"/>
   &nbsp;&nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  &nbsp;&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/arduino.png" alt="Arduino"/>
+  &nbsp;&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/esp32.png" alt="ESP32"/>
 </p>
+
+
 
 ---
 
