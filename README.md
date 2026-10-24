@@ -3,7 +3,7 @@
 
 <p align="center">
   🔥 passionated on web development<br>
-  ✨ currently learning mern stack
+  ✨ currently learning mern stack and microcontrollers
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/error._.doc">
+  <a href="https://www.instagram.com/error._.doc_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://youtube.com/@brabhuSankarraja">
